@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Radio Tray Go
+Terminal=false
+Exec=radiotray-go
+Icon=radiotray-go
+Type=Application
+Categories=AudioVideo;Audio;Player;GTK;
