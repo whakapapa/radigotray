@@ -13,7 +13,7 @@ const cConfigFile			= "config.xml"
 // Images
 const cImagePath			= "/share/radiotray-go/data/images/"
 
-const cAppIcon				= "radiotray-go.png"
+const cAppIcon				= "radigotray.png"
 
 const cAppIconOn			= "radiotray-on"
 const cAppIconOff			= "radiotray-off"
